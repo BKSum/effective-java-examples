@@ -3,7 +3,7 @@ package org.effectivejava.examples.chapter02.item02.javabeans;
 
 public class NutritionFacts {
 	// Parameters initialized to default values (if any)
-	private int servingSize = -1; // Required; no default value
+	private int servingSize = -1; // Required; no default value test git
 	private int servings = -1; // "     " "      "
 	private int calories = 0;
 	private int fat = 0;
